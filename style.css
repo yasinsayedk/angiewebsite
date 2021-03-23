@@ -1,0 +1,25 @@
+body{
+margin:40px;
+background-image:url("https://static.wikia.nocookie.net/logopedia/images/8/8e/1F293DD6-D733-4277-835B-F7C38FEE8784.jpeg/revision/latest/scale-to-width-down/340?cb=20200221184054");
+background-size:cover;
+text-align:center;
+}
+header{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV7DF33Z00fel4sBw9w530dGFaGw2rjrHAsQ&usqp=CAU");
+padding:10px;
+margin:25px;
+background-size:cover;
+}
+header h1{
+font-size:80px;
+background-color:white;
+opacity:75%;
+color:white;
+
+}
+header h2{
+font-size:70px;
+background-color:black;
+opacity:75%;
+color:white;
+}
